@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @marta-vilaseca
 - 👀 I’m interested in art, graphic design and web development 
-- 🌱 I’m currently learning Full Stack Development at AllWomen.tech 💪🏻
+- 🌱 Currently working hard to find a front end developer job 💪🏻
 - ✨ I love video games, comics, music, learning about anything and everything and my three furry handsome devils 😼😸😽
 - 📫 If you wanna get in touch: hola@martavilaseca.com // Twitter: martavilaseca
 
