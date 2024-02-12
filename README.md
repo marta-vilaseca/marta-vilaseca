@@ -3,7 +3,7 @@
 👀 I’m interested in art, graphic design and web development  
 🌱 Currently a student of the <a href="https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/" target="_blank">XVI KeepCoding Web Full Stack bootcamp</a>, set to graduate on October 2024 💪🏻  
 ✨ I love games (both video games and tabletop), comics, music, drawing and creating, learning about anything and everything, and my three cats 😼😸😽  
-🌐 I speak Spanish, Catalan and English. わたしもにほんごがくせいです。
+🌐 I speak Spanish, Catalan and English. 私は日本語の学生です。
 
 [![Repos Badge](https://badges.pufler.dev/repos/marta-vilaseca)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/marta-vilaseca)](https://badges.pufler.dev) <!-- ![GitHub User's stars](https://img.shields.io/github/stars/marta-vilaseca) -->
 
