@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martavilaseca) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/martavilaseca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marta.codes) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/marta_dev) 
 
 ## 👩🏻‍💻 My coding profiles:
-[Codepen](https://codepen.io/martavilaseca) | [Codesignal](https://app.codesignal.com/profile/martavilaseca) 
+[Codepen](https://codepen.io/martavilaseca) | [Exercism](https://exercism.org/profiles/martavilaseca) | [Codesignal](https://app.codesignal.com/profile/martavilaseca) 
 
 
 # 📊 GitHub Stats:
