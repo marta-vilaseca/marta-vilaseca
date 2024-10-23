@@ -1,7 +1,7 @@
 # 👩🏻‍💻 About Me:
 👋 Hi! I’m Marta, a frontend developer with a passion for crafting engaging digital experiences.  
 ✨ With a background in graphic design and illustration, my goal is to create projects that strike the perfect balance between aesthetics and technology.  
-👀 Driven by curiosity, I'm eager to learn and always pursuing new ways to refine my skills and tackle new challenges.  
+👀 I'm very curiosity-driven, eager to learn and always pursuing new ways to refine my skills and tackle new challenges.  
 🌐 I'm particularly interested in international projects and being part of multicultural teams, and aspire to continue my studies in both full stack development (with a focus on frontend) and UX design.  
 💜 With an open-minded attitude, I seek opportunities to collaborate with like-minded teams and companies. Beyond my technical skills, I bring empathy and a positive attitude to the teams I collaborate with: I fervently believe in the importance of working in harmony to achieve the best results, and I would love to contribute my creativity and dedication to projects that drive positive change and innovation.  
 🙋🏻‍♀️ Open to Opportunities to apply my skills and continue my personal and professional growth!  
@@ -16,7 +16,7 @@
 🎨 Also studying to certificate my UX/UI knowledge via the **official UX/UI Google Certificate** via Coursera (started September 2024, estimated finish date February 2025)  
 
 ## Frameworks, tools, languages and areas I'm currently focusing on:
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martavilaseca) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/martavilaseca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marta.codes) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/marta_dev) 
