@@ -1,10 +1,11 @@
 # 👩🏻‍💻 About Me:
-👋 Hi! I’m Marta, a frontend developer with a passion for crafting engaging digital experiences.
-✨ With a background in graphic design and illustration, my goal is to create projects that strike the perfect balance between aesthetics and technology.
-👀 I'm very curiosity-driven, eager to learn and always pursuing new ways to refine my skills and tackle new challenges. 
-🌱 Currently continuing my studies in both full stack development (with a focus on frontend) and UX design.
-💜 With an open-minded attitude, I seek opportunities to collaborate with like-minded teams and companies. Beyond my technical skills, I bring empathy and a positive attitude to the teams I collaborate with: I firmly believe in the importance of working in harmony to achieve the best results, and I would love to contribute my creativity and dedication to projects that drive positive change and innovation.
-🙋🏻‍♀️ Open to Opportunities to apply my skills and continue my personal and professional growth!
+👋 Hi! I’m Marta, a frontend developer with a passion for crafting engaging digital experiences.  
+✨ With a background in graphic design and illustration, my goal is to create projects that strike the perfect balance between aesthetics and technology.  
+👀 I'm very curiosity-driven, eager to learn and always pursuing new ways to refine my skills and tackle new challenges.   
+🌱 Currently continuing my studies in both full stack development (with a focus on frontend) and UX design.  
+⭐ I love drawing, art, gaming (both video and board games), music, good food, learning languages (focused on Japanese and Finnish at the moment) and animals (my cats especially!)
+💜 With an open-minded attitude, I seek opportunities to collaborate with like-minded teams and companies. Beyond my technical skills, I bring empathy and a positive attitude to the teams I collaborate with: I firmly believe in the importance of working in harmony to achieve the best results, and I would love to contribute my creativity and dedication to projects that drive positive change and innovation.  
+🙋🏻‍♀️ Open to Opportunities to apply my skills and continue my personal and professional growth!  
 
 [![Repos Badge](https://badges.pufler.dev/repos/marta-vilaseca)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/marta-vilaseca)](https://badges.pufler.dev) ![GitHub User's stars](https://img.shields.io/github/stars/marta-vilaseca)
 
