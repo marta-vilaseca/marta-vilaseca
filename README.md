@@ -1,11 +1,18 @@
-# 👩🏻‍💻 About Me:
-👋 Hi! I’m Marta, a frontend developer with a passion for crafting engaging digital experiences.  
-✨ With a background in graphic design and illustration, my goal is to create projects that strike the perfect balance between aesthetics and technology.  
-👀 I'm very curiosity-driven, eager to learn and always pursuing new ways to refine my skills and tackle new challenges.   
-🌱 Currently continuing my studies in both full stack development (with a focus on frontend) and UX design.  
-⭐ I love drawing, art, gaming (both video and board games), music, good food, learning languages (focused on Japanese and Finnish at the moment) and animals (my cats especially!)  
-💜 With an open-minded attitude, I seek opportunities to collaborate with like-minded teams and companies. Beyond my technical skills, I bring empathy and a positive attitude to the teams I collaborate with: I firmly believe in the importance of working in harmony to achieve the best results, and I would love to contribute my creativity and dedication to projects that drive positive change and innovation.  
-🙋🏻‍♀️ Open to Opportunities to apply my skills and continue my personal and professional growth!  
+##  👋 Hi! I’m Marta, a frontend developer with a passion for crafting engaging digital experiences.  
+
+✨ With a background in graphic design and illustration, my goal is to create projects that seamlessly blend aesthetics and technology 
+
+👀 I'm very curiosity-driven, eager to learn and always pursuing new ways to refine my skills and tackle new challenges
+
+🌱 I’m currently enhancing my skills in full stack development (with a focus on frontend) and UX design
+
+💜 Beyond coding, I enjoy art, gaming (both video and board games), music, good food, and exploring languages (currently centered in Japanese and Finnish). I’m also a proud cat mom! 🐈  
+
+🙋🏻‍♀️ Open to remote opportunities and collaborations, I bring a mix of technical expertise, creativity, empathy and positive energy to the teams I join. 
+
+### 👩🏻‍💻 Let’s work together to create impactful, innovative projects!
+
+<br />   
 
 [![Repos Badge](https://badges.pufler.dev/repos/marta-vilaseca)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/marta-vilaseca)](https://badges.pufler.dev) ![GitHub User's stars](https://img.shields.io/github/stars/marta-vilaseca)
 
