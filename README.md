@@ -21,7 +21,6 @@
 
 # 🌱 Recent education: 
 💻 <a href="https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/" target="_blank">XVI KeepCoding Web Full Stack bootcamp</a> graduate (October 2024)  
-🎨 Also studying to certificate my UX/UI knowledge via the **official UX/UI Google Certificate** via Coursera (started September 2024, estimated finish date February 2025)  
 
 ## Frameworks, tools, languages and areas I'm currently focusing on:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
