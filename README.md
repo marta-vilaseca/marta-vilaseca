@@ -1,16 +1,16 @@
-##  👋 Hi! I’m Marta, a frontend developer with a passion for crafting engaging digital experiences.  
+## 👋 Hi! I'm Marta — a frontend developer with a creative background, a designer’s eye, and usually a cat (or two) nearby. 
 
-✨ With a background in graphic design and illustration, my goal is to create projects that seamlessly blend aesthetics and technology 
+🧠 With a foundation in graphic design and illustration, I bring a unique perspective to crafting interfaces that are not just functional but also visually compelling. 
 
-👀 I'm very curiosity-driven, eager to learn and always pursuing new ways to refine my skills and tackle new challenges
+💻 These days, my main focus is frontend development — where I get to blend logic, design, and user experience. I'm especially passionate about where code and design meet — that space where form serves function.
 
-🌱 I’m currently enhancing my skills in full stack development (with a focus on frontend) and UX design
+🌱 I’m building on my skills in full stack development and UX design, with a core emphasis on frontend technologies and performance. 
 
-💜 Beyond coding, I enjoy art, gaming (both video and board games), music, good food, and exploring languages (currently centered in Japanese and Finnish). I’m also a proud cat mom! 🐈  
+🎮 Outside of coding, I love art, gaming (both video and board games), music, good food, and language learning (Japanese is my main focus, with some Korean and Finnish on the side!). 
 
-🙋🏻‍♀️ Open to remote opportunities and collaborations, I bring a mix of technical expertise, creativity, empathy and positive energy to the teams I join. 
+🤝 Open to remote opportunities and collaborations, I bring technical expertise, creativity, empathy, and positive energy to every team I join. 
 
-### 👩🏻‍💻 Let’s work together to create impactful, innovative projects!
+### 👩🏻‍💻 Let’s build something impactful and innovative together! 
 
 <br />   
 
@@ -21,6 +21,8 @@
 
 # 🌱 Recent education: 
 💻 <a href="https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/" target="_blank">XVI KeepCoding Web Full Stack bootcamp</a> graduate (October 2024)  
+
+[![Github Foundations Certification](./images/github-foundations.png)](https://www.credly.com/badges/1b15cdb8-9768-4cf4-9fad-2a30d15cf486)
 
 ## Frameworks, tools, languages and areas I'm currently focusing on:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
