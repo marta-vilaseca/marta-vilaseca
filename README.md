@@ -6,7 +6,7 @@
 
 🌱 I’m building on my skills in full stack development and UX design, with a core emphasis on frontend technologies and performance. 
 
-🎮 Outside of coding, I love art, gaming (both video and board games), music, good food, and language learning (Japanese is my main focus, with some Korean and Finnish on the side!). 
+🎮 Outside of coding, I love art, gaming (both video and board games), music, good food, and language learning (Japanese is my main focus at the moment). 
 
 🤝 Open to remote opportunities and collaborations, I bring technical expertise, creativity, empathy, and positive energy to every team I join. 
 
