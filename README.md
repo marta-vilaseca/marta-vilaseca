@@ -32,7 +32,7 @@
 [![Github Foundations Certification](./images/github-foundations.png)](https://www.credly.com/badges/1b15cdb8-9768-4cf4-9fad-2a30d15cf486)
 
 ## 🌐 Socials:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/martavilaseca) [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/martavilaseca) [![Bluesky Badge](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/martavilaseca.bsky.social) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/marta.codes) [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge)](https://twitch.tv/marta_dev) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/martavilaseca) [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/martavilaseca) [![Bluesky Badge](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/martavilaseca.bsky.social) 
 
 
 <!-- ## 📊 GitHub Stats:
